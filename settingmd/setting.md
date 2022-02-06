@@ -33,3 +33,12 @@ Chocolatey v0.12.1
 다음과 같은 것들을 설치
 
 7. SDK 설치 파일 환경변수 설정
+
+
+환경 변수 설정시 경로 확인법
+
+- git bash 사용후
+- JAVA 경로확인 > which javac
+- Node 경로 확인 > which node
+- choco 경로 확인 > which choco
+- adb 확인 > which adb
